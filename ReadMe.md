@@ -6,27 +6,27 @@
 ## Features ##
 
 - Navigation
- - Home
-  - [ ] Backend Function
-  - [ ] UI
-  - [X] HTML Design
- - Menu
-  - [ ] Backend Function
-  - [ ] UI
-  - [X] HTML Design
- - About Us
-  - [ ] Backend Function
-  - [ ] UI
-  - [X] HTML Design
- - Contact
-  - [ ] Backend Function
-  - [ ] UI
-  - [X] HTML Design    
+  - Home
+    - [ ] Backend Function
+    - [ ] UI
+    - [X] HTML Design
+  - Menu
+    - [ ] Backend Function
+    - [ ] UI
+    - [X] HTML Design
+  - About Us
+    - [ ] Backend Function
+    - [ ] UI
+    - [X] HTML Design
+  - Contact
+    - [ ] Backend Function
+    - [ ] UI
+    - [X] HTML Design    
 - Menu
- - Add to Cart
-  - [ ] Backend Function
-  - [ ] UI
-  - [X] HTML Design
+  - Add to Cart
+    - [ ] Backend Function
+    - [ ] UI
+    - [X] HTML Design
 
 ----
 
@@ -57,18 +57,18 @@
 hi I am Mark Ryan Gabuco BSIT 3B1 student, studying at Palawan State University(main campus).
 My Hobbies are: 
 - Playing Video Games
- - Online Games :video_game:
-  - RPG games 
+  - Online Games :video_game:
+    - RPG games 
 - Coding
- - HTML :scroll:
- - CSS :art:
- - PHP :elephant:
- - LARAVEL :thumbsup:
+  - HTML :scroll:
+  - CSS :art:
+  - PHP :elephant:
+  - LARAVEL :thumbsup:
 - Wacthing Movies
- - Horror :hocho:
- - Action :bomb:
- - Comedy :laughing:
- - Fantasy :horse:
+  - Horror :hocho:
+  - Action :bomb:
+  - Comedy :laughing:
+  - Fantasy :horse:
 - Loves Anime :art:
 ---
 

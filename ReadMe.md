@@ -76,10 +76,12 @@ My Hobbies are:
 
 **Name:**
 Mark Ryan O. Gabuco
+
+
 **Email:**
 201880103@psu.palawan.edu.ph
 
 [Facebook](https://web.facebook.com/rynFromPh/ "Facebook")![Facebook](img/Facebook.png "Facebook")
-[Github](https://github.com/GABUC01 "Github")![Github](img/Github.png "Github")
+[Github](https://github.com/GABUC01 "Github")![Github](img/Github.png width = 10px "Github")
 ---
 

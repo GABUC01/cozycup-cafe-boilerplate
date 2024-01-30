@@ -72,7 +72,7 @@ My Hobbies are:
 - Loves Anime :art:
 ---
 
-[<img> src="https://avatars.githubusercontent.com/u/156725744?s=400&u=6e8a620cc7bc3982c28d6a1eeb7ba77b57aa2780&v=4" width="150px" style="display: block; margin: auto; border-radius: 50%;"](https://avatars.githubusercontent.com/u/156725744?s=400&u=6e8a620cc7bc3982c28d6a1eeb7ba77b57aa2780&v=4 "Me")
+<img src="https://avatars.githubusercontent.com/u/156725744?s=400&u=6e8a620cc7bc3982c28d6a1eeb7ba77b57aa2780&v=4" width="150px" style="display: block; margin: auto; border-radius: 50%; alt="Me">
 
 **Name:**
 Mark Ryan O. Gabuco

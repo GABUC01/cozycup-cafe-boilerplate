@@ -132,4 +132,14 @@ footer {
 img[alt=Me]{
     width: 150px;
     border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+img[alt=Facebook]{
+    width: 10px;
+    
+}
+img[alt=Github]{
+    width: 10px;
+    
 }

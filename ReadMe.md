@@ -81,8 +81,8 @@ Mark Ryan O. Gabuco
 **Email:**
 201880103@psu.palawan.edu.ph
 
-[Facebook](https://web.facebook.com/rynFromPh/ "Facebook")<img src="img/Facebook.png" alt="Facebook" width="10px">
+[Facebook](https://web.facebook.com/rynFromPh/ "Facebook")<img src="img/Facebook.png" alt="Facebook" width="50px">
 
-[Github](https://github.com/GABUC01 "Github")<img src="img/Github.png" alt="Github" width="10px">
+[Github](https://github.com/GABUC01 "Github")<img src="img/Github.png" alt="Github" width="50px">
 ---
 
